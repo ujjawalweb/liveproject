@@ -7,7 +7,7 @@ import HashRouter from 'react-router-dom/BrowserRouter'
 
 ReactDOM.render(
   <>
-   <BrowserRouter basename="/">
+   <BrowserRouter basename="/admin">
     <App />
  </BrowserRouter>
   </>,
