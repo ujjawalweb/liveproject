@@ -20,13 +20,8 @@ function App() {
 
  <main>
             <Switch>
-        <Route path="/liveproject" component={Home} exact/>
-        <Route path="/cloud"  component={Cloud} />
-        <Route path="/data"  component={Data} />
-        <Route path="/agile"  component={Agile} />
-        <Route path="/Blog" component={Blog}   />
-        <Route path="/career"  component={Career} />
-        <Route path="/contact" component={Contact} />
+        <Route path="/" component={Home} exact/>
+
         </Switch>
         </main>
  </>
