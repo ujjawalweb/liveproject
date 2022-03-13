@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/liveproject/static/css/main.97be6d59.css",
+    "main.js": "/liveproject/static/js/main.e5ae4ca9.js",
+    "static/js/787.c74efbde.chunk.js": "/liveproject/static/js/787.c74efbde.chunk.js",
+    "static/media/sm-vi.mp4": "/liveproject/static/media/sm-vi.9c0dc0735a99d4760171.mp4",
+    "static/media/1.mp4": "/liveproject/static/media/1.8eb582a4f05e01f8091d.mp4",
+    "static/media/blg2.jpg": "/liveproject/static/media/blg2.dfb9a046f8bc1e1c63f7.jpg",
+    "static/media/blg3.jpg": "/liveproject/static/media/blg3.cc31eab331688418795e.jpg",
+    "static/media/career-banner.jpg": "/liveproject/static/media/career-banner.6075b1b06bd50cb6896d.jpg",
+    "static/media/transformationa-designs.jpg": "/liveproject/static/media/transformationa-designs.c67e0c3b68a4c2c02463.jpg",
+    "static/media/blog-banner.jpg": "/liveproject/static/media/blog-banner.90d29e41e2cb515545aa.jpg",
+    "static/media/innovative-solutions.jpg": "/liveproject/static/media/innovative-solutions.c455f80214c555f417ed.jpg",
+    "static/media/collaborative-methodology.jpg": "/liveproject/static/media/collaborative-methodology.ab722073fd7516ae3f09.jpg",
+    "static/media/blg1.jpg": "/liveproject/static/media/blg1.81a6dce8252b9b4ee9ac.jpg",
+    "static/media/contact-banner.jpg": "/liveproject/static/media/contact-banner.3443f1d3500e24b4d5f6.jpg",
+    "static/media/data-analytics.jpg": "/liveproject/static/media/data-analytics.d4ff09c77b795cf099eb.jpg",
+    "static/media/choose-img.jpg": "/liveproject/static/media/choose-img.3fcc731e4be8acc4be82.jpg",
+    "static/media/role-do-we-play.jpg": "/liveproject/static/media/role-do-we-play.df008c92db7eabcbb049.jpg",
+    "static/media/our-core-capabilities.jpg": "/liveproject/static/media/our-core-capabilities.1fdce4aa75ed12848e3d.jpg",
+    "static/media/pri.jpg": "/liveproject/static/media/pri.39ceb2bad40e3417d736.jpg",
+    "static/media/deliver.jpg": "/liveproject/static/media/deliver.4795d14e2eb157985554.jpg",
+    "static/media/cloud-migration-services.jpg": "/liveproject/static/media/cloud-migration-services.8d6fcfa68dbbb71480b7.jpg",
+    "static/media/migration-planning.jpg": "/liveproject/static/media/migration-planning.e01ca78d97c8817c572b.jpg",
+    "static/media/org.jpg": "/liveproject/static/media/org.7ae73a9861a9dd9957d1.jpg",
+    "static/media/banner-2.jpg": "/liveproject/static/media/banner-2.6a633423a69e4b32cc25.jpg",
+    "static/media/agile-project-delivery.jpg": "/liveproject/static/media/agile-project-delivery.0001a349de268c020de3.jpg",
+    "static/media/aws.jpg": "/liveproject/static/media/aws.e7379b1d1fa3af5ea6aa.jpg",
+    "static/media/google.jpg": "/liveproject/static/media/google.fdbd55085eff2197c41f.jpg",
+    "static/media/azure.jpg": "/liveproject/static/media/azure.7d51b44b5082ff17eb1a.jpg",
+    "static/media/microsoft.jpg": "/liveproject/static/media/microsoft.9c8319e71f2d6883065a.jpg",
+    "static/media/logo.png": "/liveproject/static/media/logo.c1b14e23718c23afab9a.png",
+    "index.html": "/liveproject/index.html",
+    "main.97be6d59.css.map": "/liveproject/static/css/main.97be6d59.css.map",
+    "main.e5ae4ca9.js.map": "/liveproject/static/js/main.e5ae4ca9.js.map",
+    "787.c74efbde.chunk.js.map": "/liveproject/static/js/787.c74efbde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97be6d59.css",
+    "static/js/main.e5ae4ca9.js"
+  ]
+}
