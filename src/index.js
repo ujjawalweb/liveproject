@@ -7,7 +7,7 @@ import BrowserRouter from 'react-router-dom/BrowserRouter'
 
 ReactDOM.render(
   <>
-   <BrowserRouter basename={process.env.PUBLIC_URL}>
+   <BrowserRouter basename={process.env.PUBLIC_https://ujjawalweb.github.io/liveproject}>
     <App />
     </BrowserRouter>
   </>,
