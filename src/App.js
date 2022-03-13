@@ -17,8 +17,8 @@ function App() {
  <>
 
 
+  <div className="app">
 
- <main>
             <Switch>
         <Route path="/" component={Home} exact/>
             <Route path="/cloud"  component={Cloud} />
@@ -29,7 +29,7 @@ function App() {
         <Route path="/contact" component={Contact} />
 
         </Switch>
-        </main>
+        </div>
  </>
   );
 }
