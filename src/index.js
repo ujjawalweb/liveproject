@@ -3,13 +3,13 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import './App.css';
 import App from './App';
-import HashRouter from 'react-router-dom/HashRouter'
+import HashRouter from 'react-router-dom/BrowserRouter'
 
 ReactDOM.render(
   <>
-   <HashRouter>
+   <BrowserRouter basename="/">
     <App />
- </HashRouter>
+ </BrowserRouter>
   </>,
   document.getElementById('root')
 );
